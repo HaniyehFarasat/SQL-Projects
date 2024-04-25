@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6714f879-912b-4660-90eb-76f814979705" name="Changes" comment="Adding city_country SQL code." />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;HaniyehFarasat&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="0c93dd44-5115-4853-9c18-543b847a9c71" />
+        <option name="url" value="https://github.com/HaniyehFarasat/SQL-Projects.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2ePVnKpbCD8woa7F7SA60rXgloM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editing.templates&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-d68999036c7f-b11f5e8da5ad-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.14475.56" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6714f879-912b-4660-90eb-76f814979705" name="Changes" comment="" />
+      <created>1711806366288</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1711806366288</updated>
+      <workItem from="1711806367818" duration="2174000" />
+      <workItem from="1712009161785" duration="16000" />
+      <workItem from="1712009637241" duration="59000" />
+      <workItem from="1712238079557" duration="118000" />
+      <workItem from="1712238221540" duration="1883000" />
+      <workItem from="1712272582830" duration="781000" />
+      <workItem from="1712273400300" duration="759000" />
+      <workItem from="1712418468811" duration="6435000" />
+      <workItem from="1712445261575" duration="3777000" />
+      <workItem from="1713900842944" duration="15000" />
+      <workItem from="1713900909599" duration="63000" />
+      <workItem from="1713901034958" duration="29000" />
+      <workItem from="1713901369459" duration="8576000" />
+      <workItem from="1713962838537" duration="20000" />
+      <workItem from="1713965603616" duration="257000" />
+      <workItem from="1713966227775" duration="50000" />
+    </task>
+    <task id="LOCAL-00001" summary="Adding mental health SQL code.">
+      <option name="closed" value="true" />
+      <created>1711807958672</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1711807958672</updated>
+    </task>
+    <task id="LOCAL-00002" summary="wrote SQL code to query languages spoken in a country.">
+      <option name="closed" value="true" />
+      <created>1712271084756</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1712271084756</updated>
+    </task>
+    <task id="LOCAL-00003" summary="wrote SQL code to query languages spoken in a country.">
+      <option name="closed" value="true" />
+      <created>1712273052729</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1712273052729</updated>
+    </task>
+    <task id="LOCAL-00004" summary="wrote SQL code to query languages spoken in a country.">
+      <option name="closed" value="true" />
+      <created>1712273231688</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1712273231688</updated>
+    </task>
+    <task id="LOCAL-00005" summary="wrote SQL code to query languages spoken in a country.">
+      <option name="closed" value="true" />
+      <created>1712273520863</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1712273520863</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Adding country statistic SQL code.">
+      <option name="closed" value="true" />
+      <created>1712444825483</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1712444825483</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Adding country language SQL code.">
+      <option name="closed" value="true" />
+      <created>1712446091645</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1712446091645</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Adding country language SQL code.">
+      <option name="closed" value="true" />
+      <created>1712446226996</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1712446226996</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Adding country language SQL code.">
+      <option name="closed" value="true" />
+      <created>1712446243034</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1712446243034</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Adding city_country SQL code.">
+      <option name="closed" value="true" />
+      <created>1712608053223</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1712608053223</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Adding mental health SQL code." />
+    <MESSAGE value="wrote SQL code to query languages spoken in a country." />
+    <MESSAGE value="Adding country statistic SQL code." />
+    <MESSAGE value="Adding" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/main'" />
+    <MESSAGE value="Adding country language SQL code." />
+    <MESSAGE value="Adding city_country SQL code." />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding city_country SQL code." />
+  </component>
+</project>
