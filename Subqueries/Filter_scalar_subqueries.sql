@@ -28,4 +28,4 @@ FROM team
 WHERE team_api_id IN
 	  (SELECT hometeam_id
        FROM match
-       WHERE hometeam_ID >= 8 );
+       WHERE home_goal >= 8 );
