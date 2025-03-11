@@ -93,3 +93,19 @@ SELECT
             ORDER BY Year ASC) AS Last_Champion
 FROM Athletics_Gold
 ORDER BY Event ASC, Gender ASC, Year ASC;
+
+--- Practice 7:
+WITH All_Male_Medalists AS (
+  SELECT DISTINCT
+    Athlete
+  FROM Summer_Medals
+  WHERE Medal = 'Gold'
+    AND Gender = 'Men')
+
+SELECT
+  -- Fetch all athletes and the first athlete alphabetically
+  Athlete,
+   FIRST_VALUE(athlete) OVER (
+    ORDER BY Athlete ASC
+  ) AS First_Athlete
+FROM All_Male_Medalists;
