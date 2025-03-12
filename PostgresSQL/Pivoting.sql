@@ -145,3 +145,21 @@ WITH Country_Medals AS (
     RANK() OVER (ORDER BY Medals DESC) AS Rank
   FROM Country_Medals
   ORDER BY Rank ASC;
+
+
+  --- Practice 9:
+  WITH Country_Medals AS (
+  SELECT
+    Country,
+    COUNT(*) AS Medals
+  FROM Summer_Medals
+  WHERE Year = 2000
+    AND Medal = 'Gold'
+  GROUP BY Country)
+
+  SELECT
+    Country,
+    -- Rank countries by the medals awarded
+    RANK() OVER (ORDER BY Medals DESC) AS Rank
+  FROM Country_Medals
+  ORDER BY Rank ASC;
