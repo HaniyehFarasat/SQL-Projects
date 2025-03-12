@@ -100,3 +100,17 @@ WHERE
 -- Generate Country-level subtotals
 GROUP BY Country, ROLLUP(Gender)
 ORDER BY Country ASC, Gender ASC;
+
+--- Practice 6:
+-- Count the medals per gender and medal type
+SELECT
+  Gender,
+  COUNT(*),
+  Medal AS Awards
+FROM Summer_Medals
+WHERE
+  Year = 2012
+  AND Country = 'RUS'
+-- Get all possible group-level subtotals
+GROUP BY Gender, Medal
+ORDER BY Gender ASC, Medal ASC;
