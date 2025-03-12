@@ -128,3 +128,20 @@ WHERE
 -- Get all possible group-level subtotals
 GROUP BY CUBE(Gender, Medal)
 ORDER BY Gender ASC, Medal ASC;
+
+--- Practice 8:
+WITH Country_Medals AS (
+  SELECT
+    Country,
+    COUNT(*) AS Medals
+  FROM Summer_Medals
+  WHERE Year = 2000
+    AND Medal = 'Gold'
+  GROUP BY Country)
+
+  SELECT
+    Country,
+    -- Rank countries by the medals awarded
+    RANK() OVER (ORDER BY Medals DESC) AS Rank
+  FROM Country_Medals
+  ORDER BY Rank ASC;
