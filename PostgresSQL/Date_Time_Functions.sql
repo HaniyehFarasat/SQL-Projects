@@ -10,3 +10,8 @@ GROUP BY 1;
 -- Truncate rental_date by year
 SELECT DATE_TRUNC('year', rental_date) AS rental_year
 FROM rental;
+
+--- Practice 3
+-- Truncate rental_date by month
+SELECT DATE_TRUNC('month', rental_date) AS rental_month
+FROM rental;

@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6714f879-912b-4660-90eb-76f814979705" name="Changes" comment="Adding city_country SQL code." />
+    <list default="true" id="6714f879-912b-4660-90eb-76f814979705" name="Changes" comment="Adding city_country SQL code.">
+      <change beforePath="$PROJECT_DIR$/PostgresSQL/numbering_rows.sql" beforeDir="false" afterPath="$PROJECT_DIR$/PostgresSQL/numbering_rows.sql" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -84,6 +86,7 @@
       <workItem from="1713962838537" duration="20000" />
       <workItem from="1713965603616" duration="257000" />
       <workItem from="1713966227775" duration="50000" />
+      <workItem from="1742757362320" duration="14000" />
     </task>
     <task id="LOCAL-00001" summary="Adding mental health SQL code.">
       <option name="closed" value="true" />
