@@ -15,3 +15,8 @@ FROM rental;
 -- Truncate rental_date by month
 SELECT DATE_TRUNC('month', rental_date) AS rental_month
 FROM rental;
+
+--- Practice 4
+-- Truncate rental_date by day of the month
+SELECT DATE_TRUNC('day', rental_date) AS rental_day
+FROM rental;
