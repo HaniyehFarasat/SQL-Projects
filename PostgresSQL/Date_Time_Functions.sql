@@ -5,3 +5,8 @@ SELECT
   -- Count the number of rentals
   COUNT(rental_id) as rentals FROM rental
 GROUP BY 1;
+
+--- Paractice 2
+-- Truncate rental_date by year
+SELECT DATE_TRUNC('year', rental_date) AS rental_year
+FROM rental;
